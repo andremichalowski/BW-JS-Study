@@ -1,5 +1,5 @@
 Rubrick JS information: https://www.notion.so/Web-Unit-1-9d72ca3e8a78480689e63938c7b9599f
-Repo: andre-michalowski
+Repo: andre-michalowski 
 
 MVP:
     1. getFilmCount
